@@ -10,4 +10,5 @@
   - Sysmon
 - [Windows logging, Sysmon, and ELK](https://www.youtube.com/watch?v=FeCSJBKYFBQ)
 - Security Onion for network investigation (Suricata, Zeek, RITA)
+- [SANS Cheet Sheets](https://digital-forensics.sans.org/community/cheat-sheets/)
 
