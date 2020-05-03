@@ -13,5 +13,5 @@
 - [SANS Cheet Sheets](https://digital-forensics.sans.org/community/cheat-sheets/)
 # Malware development
 - [C++ Malware development](https://0xpat.github.io/Malware_development_part_1/) 
-- [How to write PHP virus?] (https://github.com/alshaboti/write-php-virus) 
+- [How to write PHP virus?](https://github.com/alshaboti/write-php-virus) 
 
